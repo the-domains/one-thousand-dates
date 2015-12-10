@@ -1,0 +1,28 @@
+name: One Thousand Dates
+favicon: null
+layout_spectrum: 0.21369800344109535
+typography_spectrum: 0.884444928728044
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.2477182587608695
+  lightness: 0.6730194713454694
+  saturation: 0.1527386005036533
+  rhythmicContrast: 0.9356072107329965
+purpose: []

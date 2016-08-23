@@ -1,15 +1,15 @@
 cta:
+  domain: null
   version: null
   bucket: null
-  domain: null
-layout_spectrum: 0.5826307
+layout_spectrum: 0
 favicon: null
 name: One Thousand Dates
 purpose: []
 analytics:
-  twitter: null
-  google: null
   facebook: null
+  google: null
+  twitter: null
 opengraph:
   image: null
   type: null
